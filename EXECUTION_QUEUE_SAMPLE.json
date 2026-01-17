@@ -1,0 +1,542 @@
+[
+  {
+    "agency_index": 1,
+    "total_agencies": 10,
+    "ccn": "679448",
+    "agency_name": "STAR PLUS HOME CARE",
+    "agency_info": {
+      "ccn": "679448",
+      "name": "STAR PLUS HOME CARE",
+      "city": "MCALLEN",
+      "state": "TX",
+      "address": "1318 N 10TH ST, STE 301",
+      "phone": "9568004405",
+      "revenue": "2882236",
+      "cert_date": "March 23, 2004"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"STAR PLUS HOME CARE\" MCALLEN TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"STAR PLUS HOME CARE\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 679448 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"STAR PLUS HOME CARE\" MCALLEN TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"1318 N 10TH ST, STE 301\" MCALLEN business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"STAR PLUS HOME CARE\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 2,
+    "total_agencies": 10,
+    "ccn": "679496",
+    "agency_name": "YOUR HEALTH TEAM LLC",
+    "agency_info": {
+      "ccn": "679496",
+      "name": "YOUR HEALTH TEAM LLC",
+      "city": "KAUFMAN",
+      "state": "TX",
+      "address": "1512 FM 2727",
+      "phone": "9729628349",
+      "revenue": "2918132",
+      "cert_date": "June 2, 2004"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"YOUR HEALTH TEAM LLC\" KAUFMAN TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"YOUR HEALTH TEAM LLC\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 679496 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"YOUR HEALTH TEAM LLC\" KAUFMAN TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"1512 FM 2727\" KAUFMAN business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"YOUR HEALTH TEAM LLC\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 3,
+    "total_agencies": 10,
+    "ccn": "457996",
+    "agency_name": "ST ANTHONYS HOME HEALTHCARE SERVICES INC",
+    "agency_info": {
+      "ccn": "457996",
+      "name": "ST ANTHONYS HOME HEALTHCARE SERVICES INC",
+      "city": "MCALLEN",
+      "state": "TX",
+      "address": "5303 N MCCOLL RD",
+      "phone": "9569948766",
+      "revenue": "2850848",
+      "cert_date": "February 10, 2006"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"ST ANTHONYS HOME HEALTHCARE SERVICES INC\" MCALLEN TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"ST ANTHONYS HOME HEALTHCARE SERVICES INC\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 457996 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"ST ANTHONYS HOME HEALTHCARE SERVICES INC\" MCALLEN TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"5303 N MCCOLL RD\" MCALLEN business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"ST ANTHONYS HOME HEALTHCARE SERVICES INC\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 4,
+    "total_agencies": 10,
+    "ccn": "679432",
+    "agency_name": "ENHABIT HOME HEALTH",
+    "agency_info": {
+      "ccn": "679432",
+      "name": "ENHABIT HOME HEALTH",
+      "city": "NACOGDOCHES",
+      "state": "TX",
+      "address": "2302 NW STALLINGS DRIVE",
+      "phone": "9365643700",
+      "revenue": "2846480",
+      "cert_date": "February 5, 2004"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"ENHABIT HOME HEALTH\" NACOGDOCHES TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"ENHABIT HOME HEALTH\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 679432 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"ENHABIT HOME HEALTH\" NACOGDOCHES TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"2302 NW STALLINGS DRIVE\" NACOGDOCHES business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"ENHABIT HOME HEALTH\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 5,
+    "total_agencies": 10,
+    "ccn": "747702",
+    "agency_name": "GENUINE HEALTHCARE SERVICES INC",
+    "agency_info": {
+      "ccn": "747702",
+      "name": "GENUINE HEALTHCARE SERVICES INC",
+      "city": "MCALLEN",
+      "state": "TX",
+      "address": "3243 N 38TH ST STE A",
+      "phone": "9566836296",
+      "revenue": "2935296",
+      "cert_date": "May 17, 2012"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"GENUINE HEALTHCARE SERVICES INC\" MCALLEN TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"GENUINE HEALTHCARE SERVICES INC\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 747702 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"GENUINE HEALTHCARE SERVICES INC\" MCALLEN TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"3243 N 38TH ST STE A\" MCALLEN business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"GENUINE HEALTHCARE SERVICES INC\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 6,
+    "total_agencies": 10,
+    "ccn": "679294",
+    "agency_name": "ANGEL BRIGHT HOME HEALTH INC",
+    "agency_info": {
+      "ccn": "679294",
+      "name": "ANGEL BRIGHT HOME HEALTH INC",
+      "city": "CORPUS CHRISTI",
+      "state": "TX",
+      "address": "3221 HOLLY RD",
+      "phone": "3619861102",
+      "revenue": "2646336",
+      "cert_date": "June 19, 2003"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"ANGEL BRIGHT HOME HEALTH INC\" CORPUS CHRISTI TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"ANGEL BRIGHT HOME HEALTH INC\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 679294 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"ANGEL BRIGHT HOME HEALTH INC\" CORPUS CHRISTI TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"3221 HOLLY RD\" CORPUS CHRISTI business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"ANGEL BRIGHT HOME HEALTH INC\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 7,
+    "total_agencies": 10,
+    "ccn": "679425",
+    "agency_name": "ALPHASTAR HOME HEALTH CARE",
+    "agency_info": {
+      "ccn": "679425",
+      "name": "ALPHASTAR HOME HEALTH CARE",
+      "city": "RICHARDSON",
+      "state": "TX",
+      "address": "1701 N COLLINS BLVD. STE 3000G",
+      "phone": "2143495973",
+      "revenue": "2966040",
+      "cert_date": "February 10, 2004"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"ALPHASTAR HOME HEALTH CARE\" RICHARDSON TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"ALPHASTAR HOME HEALTH CARE\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 679425 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"ALPHASTAR HOME HEALTH CARE\" RICHARDSON TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"1701 N COLLINS BLVD. STE 3000G\" RICHARDSON business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"ALPHASTAR HOME HEALTH CARE\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 8,
+    "total_agencies": 10,
+    "ccn": "679762",
+    "agency_name": "ON CALL HOME HEALTH AND REHAB SERVICES",
+    "agency_info": {
+      "ccn": "679762",
+      "name": "ON CALL HOME HEALTH AND REHAB SERVICES",
+      "city": "PARIS",
+      "state": "TX",
+      "address": "147 NORTH COLLEGIATE DRIVE",
+      "phone": "9037846300",
+      "revenue": "2789920",
+      "cert_date": "April 14, 2008"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"ON CALL HOME HEALTH AND REHAB SERVICES\" PARIS TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"ON CALL HOME HEALTH AND REHAB SERVICES\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 679762 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"ON CALL HOME HEALTH AND REHAB SERVICES\" PARIS TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"147 NORTH COLLEGIATE DRIVE\" PARIS business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"ON CALL HOME HEALTH AND REHAB SERVICES\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 9,
+    "total_agencies": 10,
+    "ccn": "747642",
+    "agency_name": "JEFTONS HEALTH CARE SERVICES INC",
+    "agency_info": {
+      "ccn": "747642",
+      "name": "JEFTONS HEALTH CARE SERVICES INC",
+      "city": "GARLAND",
+      "state": "TX",
+      "address": "337 OAKS TRAIL STE 105",
+      "phone": "4696770086",
+      "revenue": "2565108",
+      "cert_date": "July 28, 2011"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"JEFTONS HEALTH CARE SERVICES INC\" GARLAND TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"JEFTONS HEALTH CARE SERVICES INC\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 747642 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"JEFTONS HEALTH CARE SERVICES INC\" GARLAND TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"337 OAKS TRAIL STE 105\" GARLAND business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"JEFTONS HEALTH CARE SERVICES INC\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  },
+  {
+    "agency_index": 10,
+    "total_agencies": 10,
+    "ccn": "747232",
+    "agency_name": "HYGIA HEALTHCARE LLC",
+    "agency_info": {
+      "ccn": "747232",
+      "name": "HYGIA HEALTHCARE LLC",
+      "city": "ARLINGTON",
+      "state": "TX",
+      "address": "2020 EAST RANDOL MILL RD, STE 309",
+      "phone": "8174787600",
+      "revenue": "2955260",
+      "cert_date": "July 10, 2009"
+    },
+    "research_tasks": [
+      {
+        "type": "attempt_a",
+        "query_number": 1,
+        "query": "NPI registry \"HYGIA HEALTHCARE LLC\" ARLINGTON TX authorized official owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 2,
+        "query": "TX Secretary of State business search \"HYGIA HEALTHCARE LLC\" managing member owner",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_a",
+        "query_number": 3,
+        "query": "CMS certification 747232 provider owner administrator",
+        "purpose": "Official source verification"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 1,
+        "query": "\"HYGIA HEALTHCARE LLC\" ARLINGTON TX owner CEO administrator founder",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 2,
+        "query": "\"2020 EAST RANDOL MILL RD, STE 309\" ARLINGTON business owner registration",
+        "purpose": "Web triangulation"
+      },
+      {
+        "type": "attempt_b",
+        "query_number": 3,
+        "query": "\"HYGIA HEALTHCARE LLC\" home health about leadership management team",
+        "purpose": "Web triangulation"
+      }
+    ]
+  }
+]
