@@ -1,0 +1,78 @@
+{
+  "research_findings": [
+    {
+      "agency_name": "YOUR HEALTH TEAM LLC",
+      "ccn": "679496",
+      "enrichment": {
+        "owner_name": "Donna Clifton & Jean Campbell",
+        "confidence": 85,
+        "sales_intel_report": "• Co-founded in 2004 by Donna Clifton and Jean Campbell, RN\n• Donna Clifton serves as CFO and Assistant/Alternate Administrator\n• Woman-owned business - strong diversity credential\n• Located in Kaufman, TX - serving local community since 2004\n• Est. revenue in target range - established mid-size operation\n• Direct contact: 1512 FM 2727, Kaufman, TX 75142",
+        "sources": "Company website (yourhealthteam.org) | Healthcare4ppl.com listing | ZoomInfo business profile",
+        "attempt_a_notes": "NPI search confirmed business details | CMS cert date June 2, 2004",
+        "attempt_b_notes": "Website 'Management and Staff' page lists co-founders | Multiple corroborating sources confirm woman-owned status"
+      },
+      "source_urls": [
+        "https://www.yourhealthteam.org/management-and-staff",
+        "https://www.healthcare4ppl.com/home-health/texas/kaufman/your-health-team-llc-679496.html"
+      ]
+    },
+    {
+      "agency_name": "GENUINE HEALTHCARE SERVICES INC",
+      "ccn": "747702",
+      "enrichment": {
+        "owner_name": "Hector F Carbajal Jr., RN",
+        "confidence": 90,
+        "sales_intel_report": "• Hector F Carbajal Jr., RN - President and Authorized Official (NPI record)\n• Verified via NPI Registry (NPI #1518277540)\n• Licensed RN with executive healthcare experience\n• Medicare-certified since May 17, 2012\n• Located at 3243 N 38th St Ste A, McAllen, TX 78501\n• Proprietary ownership - decision-maker accessible",
+        "sources": "NPI Registry (npiprofile.com) | CMS Medicare Provider database | Multiple NPI verification databases",
+        "attempt_a_notes": "NPI 1518277540 shows Hector F Carbajal Jr. RN as authorized official/president",
+        "attempt_b_notes": "Multiple independent NPI databases confirm same individual | Proprietary ownership confirmed"
+      },
+      "source_urls": [
+        "https://npiprofile.com/npi/1518277540",
+        "https://npino.com/home-health/1518277540-genuine-healthcare-services,-inc./"
+      ]
+    },
+    {
+      "agency_name": "ANGEL BRIGHT HOME HEALTH INC",
+      "ccn": "679294",
+      "enrichment": {
+        "owner_name": "Brian Fernandez & Blanch Fernandez",
+        "confidence": 80,
+        "sales_intel_report": "• Brian Fernandez - Director\n• Blanch Fernandez - CFO\n• Family-owned business operating since 2003\n• Located at 3221 Holly Rd, Corpus Christi, TX 78415\n• BBB accredited business profile\n• Est. revenue $2.6M - strong established operation\n• Medicare quality rating: 5 stars - excellent care quality",
+        "sources": "Company website (angelbrighthomehealthinc.com) | Texas HHS Provider Database | BBB Business Profile",
+        "attempt_a_notes": "Texas HHS database lists Brian Fernandez (Director) and Blanch Fernandez (CFO)",
+        "attempt_b_notes": "Company website and BBB profile confirm Fernandez family ownership | Founded 2003"
+      },
+      "source_urls": [
+        "https://apps.hhs.texas.gov/ltcsearch/providerdetail.cfm?pid=008378",
+        "https://www.bbb.org/us/tx/corpus-christi/profile/home-health-care/angel-bright-home-health-inc-0825-136488",
+        "https://www.angelbrighthomehealthinc.com/about"
+      ]
+    },
+    {
+      "agency_name": "STAR PLUS HOME CARE",
+      "ccn": "679448",
+      "enrichment": {
+        "owner_name": "",
+        "confidence": 25,
+        "sales_intel_report": "• Owner identity not publicly available in accessible databases\n• Certified since March 23, 2004 - long-established operation\n• Located at 3825 N 10th St, Ste B, McAllen, TX 78501\n• Phone: (956) 800-4405\n• Est. revenue $2.9M - substantial mid-size operation\n• RECOMMENDED: Contact directly or check Texas SOS business registry (requires paid access)\n• RECOMMENDED: Verify via CMS Provider Enrollment database",
+        "sources": "Medicare Care Compare | Healthcare4ppl.com directory | Public Medicare data",
+        "attempt_a_notes": "CMS and NPI public searches did not reveal owner name | Texas SOS requires paid account access",
+        "attempt_b_notes": "Multiple directory searches found business details but not ownership | Owner info may be restricted"
+      },
+      "source_urls": [
+        "https://www.medicare.gov/care-compare/details/home-health/679448",
+        "https://www.healthcare4ppl.com/home-health/texas/mcallen/star-plus-home-care-679448.html"
+      ]
+    }
+  ],
+  "research_summary": {
+    "total_researched": 4,
+    "successful_identifications": 3,
+    "high_confidence_results": 3,
+    "requires_manual_followup": 1,
+    "average_confidence": 70,
+    "research_date": "2026-01-17",
+    "methodology": "Two-pass web verification with NPI registry, state databases, company websites, and business directories"
+  }
+}

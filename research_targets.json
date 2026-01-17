@@ -1,0 +1,102 @@
+[
+  {
+    "name": "STAR PLUS HOME CARE",
+    "ccn": "679448",
+    "address": "1318 N 10TH ST, STE 301",
+    "city": "MCALLEN",
+    "state": "TX",
+    "phone": "9568004405",
+    "revenue": "2882236",
+    "confidence": 45
+  },
+  {
+    "name": "YOUR HEALTH TEAM LLC",
+    "ccn": "679496",
+    "address": "1512 FM 2727",
+    "city": "KAUFMAN",
+    "state": "TX",
+    "phone": "9729628349",
+    "revenue": "2918132",
+    "confidence": 0
+  },
+  {
+    "name": "ST ANTHONYS HOME HEALTHCARE SERVICES INC",
+    "ccn": "457996",
+    "address": "5303 N MCCOLL RD",
+    "city": "MCALLEN",
+    "state": "TX",
+    "phone": "9569948766",
+    "revenue": "2850848",
+    "confidence": 45
+  },
+  {
+    "name": "ENHABIT HOME HEALTH",
+    "ccn": "679432",
+    "address": "2302 NW STALLINGS DRIVE",
+    "city": "NACOGDOCHES",
+    "state": "TX",
+    "phone": "9365643700",
+    "revenue": "2846480",
+    "confidence": 45
+  },
+  {
+    "name": "GENUINE HEALTHCARE SERVICES INC",
+    "ccn": "747702",
+    "address": "3243 N 38TH ST STE A",
+    "city": "MCALLEN",
+    "state": "TX",
+    "phone": "9566836296",
+    "revenue": "2935296",
+    "confidence": 45
+  },
+  {
+    "name": "ANGEL BRIGHT HOME HEALTH INC",
+    "ccn": "679294",
+    "address": "3221 HOLLY RD",
+    "city": "CORPUS CHRISTI",
+    "state": "TX",
+    "phone": "3619861102",
+    "revenue": "2646336",
+    "confidence": 45
+  },
+  {
+    "name": "ALPHASTAR HOME HEALTH CARE",
+    "ccn": "679425",
+    "address": "1701 N COLLINS BLVD. STE 3000G",
+    "city": "RICHARDSON",
+    "state": "TX",
+    "phone": "2143495973",
+    "revenue": "2966040",
+    "confidence": 45
+  },
+  {
+    "name": "ON CALL HOME HEALTH AND REHAB SERVICES",
+    "ccn": "679762",
+    "address": "147 NORTH COLLEGIATE DRIVE",
+    "city": "PARIS",
+    "state": "TX",
+    "phone": "9037846300",
+    "revenue": "2789920",
+    "confidence": 45
+  },
+  {
+    "name": "JEFTONS HEALTH CARE SERVICES INC",
+    "ccn": "747642",
+    "address": "337 OAKS TRAIL STE 105",
+    "city": "GARLAND",
+    "state": "TX",
+    "phone": "4696770086",
+    "revenue": "2565108",
+    "confidence": 45
+  },
+  {
+    "name": "HYGIA HEALTHCARE LLC",
+    "ccn": "747232",
+    "address": "2020 EAST RANDOL MILL RD, STE 309",
+    "city": "ARLINGTON",
+    "state": "TX",
+    "phone": "8174787600",
+    "revenue": "2955260",
+    "confidence": 0
+  }
+]

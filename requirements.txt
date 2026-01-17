@@ -1,0 +1,25 @@
+# Requirements for Medicare Agency Owner Enrichment Script
+# Python 3.8+ required
+
+# No external dependencies required for the base script
+# The script uses only Python standard library modules:
+# - csv
+# - json
+# - logging
+# - os
+# - re
+# - sys
+# - time
+# - datetime
+# - typing
+# - dataclasses
+# - hashlib
+
+# Optional: For enhanced web research capabilities (if implementing web scraping)
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0
+# selenium>=4.15.0
+# lxml>=4.9.3
+
+# Optional: For data analysis and validation
+# pandas>=2.0.0
